@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CichyFlashy
 - 👀 I’m interested in IT, Fishing, Speedway, Computer Games, Music and Ski Jumping
-- 🌱 I’m currently learning GIT, Python, Flask, Java
+- 🌱 I’m currently learning GIT, Python, Flask, Java, C, HTML, CSS, PHP, Linux
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
