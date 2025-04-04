@@ -1,10 +1,17 @@
-- 👋 Hi, I’m @CichyFlashy
-- 🎓 I'm a student of the University of Economics in Katowice, majoring in computer science. 
-- 👀 I’m interested in IT, Fishing, Speedway, Computer Games, Music and Ski Jumping
-- 🌱 I’m currently learning GIT, Python, Flask, Java, C, HTML, CSS, PHP, Linux
+👋 Hi, I’m @CichyFlashy
 
+🎓 I'm currently studying Computer Science at the University of Economics in Katowice
 
-<!---
-CichyFlashy/CichyFlashy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 Passionate about technology, especially backend development and web technologies
+
+🐟 Outside of coding, I enjoy fishing, speedway, ski jumping, gaming, and music
+
+🌱 Currently learning and exploring:
+
+Programming Languages: Python, C, PHP
+
+Web Development: HTML, CSS, Flask, Django
+
+Tools & Platforms: Git, Linux
+
+🎯 My current goal is to build practical projects using Python and web technologies, and to deepen my understanding of Linux systems.
