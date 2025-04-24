@@ -12,6 +12,8 @@ Programming Languages: Python, C, PHP
 
 Web Development: HTML, CSS, Flask, Django
 
-Tools & Platforms: Git, Linux
+Tools & Platforms: Git, Linux, Docker
+
+Machine Learning: Scickit Learn
 
 🎯 My current goal is to build practical projects using Python and web technologies, and to deepen my understanding of Linux systems.
